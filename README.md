@@ -29,3 +29,6 @@
 
 For ex. Return amount is 3543   
 ( 3000  X  3, 500  X  1, 20  X  2, 2 X 1, 1 X 1 )
+
+
+*note - run npm install prompt-sync*
